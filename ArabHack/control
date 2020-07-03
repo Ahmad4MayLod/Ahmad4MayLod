@@ -1,0 +1,11 @@
+Package: com.arab-crack.arabhack
+Name: Arab Hack
+Version: 3.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depiction: https://crack-arab.com/cydia/pack/arabhack
+Author: aJBbo For ArabCrackTeam
+Section: Tweaks
+Maintainer: Arab-Crack
+Depends: mobilesubstrate, ws.hbang.common
+

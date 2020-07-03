@@ -7,7 +7,20 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.Ahmad4MayLod.FirstRelease_1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 10.0
-Name: First Release
+Description: This is a test package.
+Name: Test package
 Author: Ahmad4MayLod <Danjer7757@gmail.com>
 Depiction: Test tweak
+
+Package: com.arab-crack.arabhack
+Version: 3.1
+Section: Tweaks
+Maintainer: Ahmad4MayLod <Danjer7757@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.Ahmad4MayLod.FirstRelease_3.1_iphoneos-arm.deb
+Size: 1,481,370
+Description: Hack popular apps and games.
+Name: Arab Hack
+Author: Ahmad4MayLod <Danjer7757@gmail.com>
+Depiction: Hack popular apps and games.

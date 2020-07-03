@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.StoreKit",
+			"com.fingersoft.hillclimbracing",
+			"DLS",
+			"com.animestarz",
+		);
+	};
+}
