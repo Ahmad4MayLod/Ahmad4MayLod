@@ -11,6 +11,7 @@ Description: This is a test package.
 Name: Test package
 Author: Ahmad4MayLod <Danjer7757@gmail.com>
 Depiction: A Test tweak
+
 Package: com.arab-crack.arabhack
 Name: Arab Hack
 Version: 3.1
@@ -25,6 +26,7 @@ Maintainer: Arab-Crack
 Depends: mobilesubstrate, ws.hbang.common
 MD5sum: 11c468e4dd068ca256e73791684cb682
 Size: 536568
+
 Package: com.elias.socialdownloader
 Version: 1.2-1
 Section: Tweaks
