@@ -11,7 +11,7 @@ Description: Download videos from social media apps!!
 Size: 376630
 MD5sum: 64a2806148602bc9b272b52036633ae0
 Filename: ./debs/SocialDownloader.deb
-Depiction: https://ahmad4maylod.github.io/depictions/?p=SocialDownloader
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=SocialDownloader
 
 Package: net.kenhtao.milkyway3
 Name: MilkyWay 4
@@ -28,7 +28,7 @@ Installed-Size: 376
 MD5sum: 77311a59acf69c2964ed8a2b62dd8068
 Filename: ./debs/MilkyWay4.deb
 Sileodepiction: https://ahmad4maylod.github.io/AH4Ma/depictions/?p=MilkyWay4
-Depiction: https://ahmad4maylod.github.io/depictions/?p=MilkyWay4
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MilkyWay4
 
 Package: mls.ah4ma.backgrounderaction13
 Name: Backgrounder Action 4
@@ -43,7 +43,7 @@ Size: 10128
 Installed-Size: 244
 MD5sum: 34b918fed020c69bfdc3f96aa41133b2
 Filename: ./debs/backgrounderAction2.deb
-Depiction: https://ahmad4maylod.github.io/depictions/?p=backgrounderaction13
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=backgrounderaction13
 
 Package: com.arab-crack.arabhack
 Name: Arab Hack
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm
 Depends: firmware (<10.0)
 Description: Hack popular apps and games!!
 Filename: ./debs/ArabHack.deb
-Depiction: https://ahmad4maylod.github.io/depictions/?p=ArabHack
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=ArabHack
 Author: ArabCrackTeam
 Section: Tweaks
 Maintainer: Arab-Crack
