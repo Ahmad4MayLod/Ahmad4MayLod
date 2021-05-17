@@ -1,16 +1,49 @@
-Package: com.Ahmad4MayLod.FirstRelease
-Version: 1.0
+Package: socialdownloader
+Name: Social Downloader
+Version: 1.2-1
 Section: Tweaks
-Maintainer: Ahmad4MayLod <Danjer7757@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/A Test Tweak.deb
-Size: 854
-MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: This is a test package.
-Name: Test package
-Author: Ahmad4MayLod <Danjer7757@gmail.com>
-Depiction: A Test tweak
+Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 1744
+Author: elias
+Maintainer: elias
+Description: Download videos from social media apps!!
+Size: 376630
+MD5sum: 64a2806148602bc9b272b52036633ae0
+Filename: ./debs/SocialDownloader.deb
+Depiction: https://ahmad4maylod.github.io/depictions/?p=SocialDownloader
+
+Package: net.kenhtao.milkyway3
+Name: MilkyWay 4
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Replaces: net.kenhtao.backgrounderaction13
+Description: Multitasking for iOS 13 / 14
+Maintainer: AH4Ma
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 4.0
+Size: 88610
+Installed-Size: 376
+MD5sum: 77311a59acf69c2964ed8a2b62dd8068
+Filename: ./debs/MilkyWay4.deb
+Sileodepiction: https://ahmad4maylod.github.io/AH4Ma/depictions/?p=MilkyWay4
+Depiction: https://ahmad4maylod.github.io/depictions/?p=MilkyWay4
+
+Package: mls.ah4ma.backgrounderaction13
+Name: Backgrounder Action 4
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: [iOS13/14] Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: AH4Ma
+Author: AH4Ma
+Section: Tweaks
+Version: 0.1.4
+Size: 10128
+Installed-Size: 244
+MD5sum: 34b918fed020c69bfdc3f96aa41133b2
+Filename: ./debs/backgrounderAction2.deb
+Depiction: https://ahmad4maylod.github.io/depictions/?p=backgrounderaction13
 
 Package: com.arab-crack.arabhack
 Name: Arab Hack
@@ -19,24 +52,10 @@ Architecture: iphoneos-arm
 Depends: firmware (<10.0)
 Description: Hack popular apps and games!!
 Filename: ./debs/ArabHack.deb
-Depiction: https://github.com/Ahmad4MayLod/Ahmad4MayLod.github.io/blob/master/debs/ArabHack.deb
+Depiction: https://ahmad4maylod.github.io/depictions/?p=ArabHack
 Author: ArabCrackTeam
 Section: Tweaks
 Maintainer: Arab-Crack
 Depends: mobilesubstrate, ws.hbang.common
 MD5sum: 11c468e4dd068ca256e73791684cb682
 Size: 536568
-
-Package: com.elias.socialdownloader
-Version: 1.2-1
-Section: Tweaks
-Maintainer: elias
-Depends: firmware (>10.0), mobilesubstrate, ws.hbang.common
-Architecture: iphoneos-arm
-Filename: ./debs/com.elias.socialdownloader.deb
-Size: 376630
-MD5sum: 64a2806148602bc9b272b52036633ae0
-Description: Download videos from Social Media!!
-Name: Social Downloader
-Author: elias
-Depiction: https://github.com/Ahmad4MayLod/AH4Ma/tree/master/depictions/com.elias.socialdownloader

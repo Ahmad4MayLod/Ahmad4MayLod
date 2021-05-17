@@ -1,0 +1,41 @@
+<package>
+	<id>mls.ah4ma.backgrounderaction13</id>
+	<name>Backgrounder Action 4</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Awesome Multitasking For iOS</shortDescription>
+	<descriptionlist>
+		<description>Awesome Multitasking For iOS 13 / 14</description>
+		<description>
+MilkyWay needs BackgrounderAction 4 in order to work, so make sure to install this tweak with MilkyWay 4.
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Awesome Multitasking For iOS</description>
+			<image>MW.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Awesome Multitasking For iOS</description>
+			<image>MW2.png</image>
+		</screenshot>		
+<screenshot>
+			<description>Awesome Multitasking For iOS</description>
+			<image>MW3.png</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

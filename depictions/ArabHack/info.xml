@@ -1,0 +1,33 @@
+<package>
+	<id>com.arab-crack.arabhack</id>
+	<name>Arab Hack</name>
+	<version>3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Hack Apps and Games</shortDescription>
+	<descriptionlist>
+		<description>Hack Apps and Games, iOS 10 / 14 </description>
+		<description><![CDATA[
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Hack Apps and Games, iOS 10 / 14 </description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
