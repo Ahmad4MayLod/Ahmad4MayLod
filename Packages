@@ -22,7 +22,7 @@ Description: Multitasking for iOS 13 / 14
 Maintainer: AH4Ma
 Author: akusio <akusio-report@neko2.net>
 Section: Tweaks
-Version: 4.0
+Version: 0.2.2
 Size: 88610
 Installed-Size: 376
 MD5sum: 77311a59acf69c2964ed8a2b62dd8068
@@ -59,3 +59,20 @@ Maintainer: Arab-Crack
 Depends: mobilesubstrate, ws.hbang.common
 MD5sum: 11c468e4dd068ca256e73791684cb682
 Size: 536568
+
+Package: com.thuthuatjb.igg
+Name: iGameGuardian For iOS 14
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iGameGuardian For iOS 14, Uploaded by Ahmad4MayLod
+Maintainer: AH4Ma
+Author: Aqua
+Section: Tweaks
+Version: 1.0
+Size: 1092354 
+Installed-Size: 100kb
+MD5sum: 0edf2be0d3be522aa40140033dab1d33
+Filename: ./debs/iGameGuardian.deb
+Tag: purpose::extension
+Sileodepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=iGameGuardian
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=iGameGuardian

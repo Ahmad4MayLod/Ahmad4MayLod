@@ -1,0 +1,41 @@
+<package>
+	<id>mls.ah4ma.iGameGuardian</id>
+	<name>iGameGuardian For iOS 14</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>iGameGuardian For iOS 14</shortDescription>
+	<descriptionlist>
+		<description>This version is fully working with iOS 14.x.x</description>
+		<description>
+iGameGuardian For iOS 14, Uploaded by Ahmad4MayLod.
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>iGameGuardian For iOS 14</description>
+			<image>iGG.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>iGameGuardian For iOS 14</description>
+			<image>iGG.png</image>
+		</screenshot>		
+<screenshot>
+			<description>iGameGuardian For iOS 14</description>
+			<image>iGG.png</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
