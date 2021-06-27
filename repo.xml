@@ -6,9 +6,14 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Youtube</name>
+			<name>Subscribe to my youtube channel</name>
 			<url>youtube.com/c/ahmad4maylodmls</url>
-			<iconclass>fa fa-youtube-up</iconclass>
+			<iconclass>fa fa-youtube</iconclass>
+	      	</link>
+                <link>
+			<name>Donate For Me</name>
+			<url>paypal.me/Ahmad4MayLod</url>
+			<iconclass>fa fa-paypal</iconclass>
 		</link>
 	</footerlinks>
 </repo>
