@@ -14,7 +14,7 @@ Filename: ./debs/SocialDownloader.deb
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=SocialDownloader
 
 Package: net.kenhtao.milkyway3
-Name: MilkyWay 4
+Name: MilkyWay 0.2.7 For iOS 14
 Depends: mobilesubstrate, applist, preferenceloader
 Architecture: iphoneos-arm
 Replaces: net.kenhtao.backgrounderaction13
@@ -22,13 +22,13 @@ Description: Multitasking for iOS 13 / 14
 Maintainer: AH4Ma
 Author: akusio <akusio-report@neko2.net>
 Section: Tweaks
-Version: 0.2.2
-Size: 88610
+Version: 0.2.7
+Size: 88220
 Installed-Size: 376
-MD5sum: 77311a59acf69c2964ed8a2b62dd8068
-Filename: ./debs/MilkyWay4.deb
-Sileodepiction: https://ahmad4maylod.github.io/AH4Ma/depictions/?p=MilkyWay4
-Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MilkyWay4
+MD5sum: 4784664ddbcb750ad2bcefb1c7176454
+Filename: ./debs/MilkyWay3.deb
+Sileodepiction: https://ahmad4maylod.github.io/AH4Ma/depictions/?p=MilkyWay3
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MilkyWay3
 
 Package: mls.ah4ma.backgrounderaction13
 Name: Backgrounder Action 4
