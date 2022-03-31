@@ -89,3 +89,20 @@ Filename: ./debs/Liddell.deb
 Version: 1.2.2
 Installed-Size: 1708
 MD5sum: 353c819c9ef68565ba352e09326d6858
+
+Package: love.litten.libkitten
+Version: 1.3.1
+Section: System
+Maintainer: AH4Ma
+Description: Library to get three different colors from an image and detect if one is light or dark
+Depends: firmware (>= 12.0)
+Architecture: iphoneos-arm
+Installed-Size: 172
+Name: libKitten
+Author: Litten
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/love.litten.libkitten
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Libkitten
+Filename: ./debs/libkitten.deb
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+Tag: role::developer
+MD5sum: a52860efe32690e29ccd841377d42f4b
