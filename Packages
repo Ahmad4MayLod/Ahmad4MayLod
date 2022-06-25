@@ -106,3 +106,19 @@ Filename: ./debs/libkitten.deb
 Icon: file:///Applications/Cydia.app/Sections/hethong.png
 Tag: role::developer
 MD5sum: a52860efe32690e29ccd841377d42f4b
+
+Package: Netskao <admin@initnil.com>
+Author: Netskao
+Maintainer: AH4Ma
+Name: AntiProfilesRevoke
+Package: netskao.antiprofilesrevoke
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Size: 5150
+Installed-Size: 109
+Version: 1.1
+Architecture: iphoneos-arm
+Description: No More (App Is No Longer Available) iOS 11/12/13/14
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AntiProfilesRevoke
+Sponsor: thebigboss.org <http://thebigboss.org>
+MD5sum: ed68c3ce95ff5770eea54319a2f0f017
