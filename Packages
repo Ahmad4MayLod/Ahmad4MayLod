@@ -112,7 +112,7 @@ Author: Netskao
 Maintainer: AH4Ma
 Name: AntiProfilesRevoke
 Package: netskao.antiprofilesrevoke
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
 Section: Tweaks
 Size: 5150
 Installed-Size: 109
@@ -122,3 +122,17 @@ Description: No More (App Is No Longer Available) iOS 11/12/13/14
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AntiProfilesRevoke
 Sponsor: thebigboss.org <http://thebigboss.org>
 MD5sum: ed68c3ce95ff5770eea54319a2f0f017
+
+Package: net.kenhtao.quart
+Version: 1.4.6.1
+Section: Tweaks
+Maintainer: AH4Ma
+Description: Notifications, redefined!
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Installed-Size: 1844
+Name: Quart
+Filename: ./debs/Quart.deb
+Author: LaughingQuoll
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Quart
+MD5sum: 7c7dc343fe2c4066093fde224def7282
