@@ -136,3 +136,18 @@ Filename: ./debs/Quart.deb
 Author: LaughingQuoll
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Quart
 MD5sum: 7c7dc343fe2c4066093fde224def7282
+
+Package: com.megadev.mediabar14
+Version: 1.0
+Section: Tweaks
+Maintainer: MegaDev <megadevios@protonmail.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 1064
+Name: MediaBar For 14
+Author: MegaDev <megadevios@protonmail.com>
+Filename: ./debs/MediaBar14.deb
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MediaBar14
+Icon: https://chariz.com/cdn/icon/mediabar14/icon@3x.png
+Tag: compatible_min::ios14.0
+MD5sum: 52b54cd2619fe1c867141764c4925c20

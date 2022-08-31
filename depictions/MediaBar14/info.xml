@@ -1,0 +1,44 @@
+<package>
+	<id>com.megadev.mediabar14</id>
+	<name>MediaBar For iOS 14</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 14.0), mobilesubstrate, com.laughingquoll.prefixui</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+This tweak adds a tiny media player on your Home Bar and also turns your Home Bar into a music progress bar
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>adds a tiny media player on your Home Bar</description>
+			<image>MB.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>brings a new locksreen look</description>
+			<image>MB2.png</image>
+		</screenshot>		
+<screenshot>
+			<description>turns your Home Bar into a music progress bar</description>
+			<image>MB3.png</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
