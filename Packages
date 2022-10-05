@@ -151,3 +151,15 @@ Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MediaBar14
 Icon: https://chariz.com/cdn/icon/mediabar14/icon@3x.png
 Tag: compatible_min::ios14.0
 MD5sum: 52b54cd2619fe1c867141764c4925c20
+
+Package: net.kenhtao.fenix
+Version: 1.5
+Section: Themes
+Maintainer: AH4Ma
+Description: Beautiful? Yes it is.
+Architecture: iphoneos-arm
+Filename: ./debs/Fenix.deb
+Name: Fenix Theme
+Author: JannikCrack
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Fenix
+MD5sum: 7ec290e54719c553f6965ee65f12a693

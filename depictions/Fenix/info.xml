@@ -1,0 +1,35 @@
+<package>
+	<id>net.kenhtao.fenix</id>
+	<name>Fenix</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.laughingquoll.prefixui</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+Beautiful? Yes it is.
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Quart brings a new look to notifications</description>
+			<image>Fenix.png</image>
+		</screenshot>		
+		<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
