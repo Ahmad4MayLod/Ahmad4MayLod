@@ -8,7 +8,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.laughingquoll.prefixui</package>
+		<package>firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.laughingquoll.prefixui</package>
 	</dependencies>
 	<descriptionlist>
 		<description>
@@ -19,7 +19,8 @@ Beautiful? Yes it is.
 		<screenshot>
 			<description>Quart brings a new look to notifications</description>
 			<image>Fenix.png</image>
-		</screenshot>		
+		</screenshot>
+</screenshots>		
 		<links>
 		<link>
 			<name>/r/Ahmad4MayLod</name>

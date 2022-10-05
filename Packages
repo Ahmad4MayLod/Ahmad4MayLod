@@ -160,6 +160,7 @@ Description: Beautiful? Yes it is.
 Architecture: iphoneos-arm
 Filename: ./debs/Fenix.deb
 Name: Fenix Theme
+Installed-Size: 5021686
 Author: JannikCrack
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Fenix
 MD5sum: 7ec290e54719c553f6965ee65f12a693
