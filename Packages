@@ -198,8 +198,6 @@ MD5sum: 0ddd8c346eebbaf9e314f8fd12ad79f5
 Filename: ./debs/LockScreenVideo.deb
 
 Package: uk.invoxiplaygames.ahahah
-Provides: com.sticktron.ahahah
-Conflicts: com.sticktron.ahahah
 Name: LockScreen Video 3 iOS 7 - 14
 Architecture: iphoneos-arm
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
