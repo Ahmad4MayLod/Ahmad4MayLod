@@ -183,7 +183,7 @@ Filename: ./debs/Bongwater.deb
 Author: Sticktron <sticktron@hotmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: LockScreen Video iOS 7 - 10
-Package: com.sticktron.ahahah
+Package: com.ahmad4maylod.ahahah
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Suggests: de.j-gessner.ccloader
 Section: Tweaks
