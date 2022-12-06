@@ -1,0 +1,42 @@
+<package>
+	<id>uk.invoxiplaygames.ahahah</id>
+	<name>LockScreen Video 3 iOS 7 - 14</name>
+	<version>3.0-beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A Customizable Unlock Error Alarm</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>completely redesign the phone app contacts screen</description>
+			<image>MB.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>completely redesign the phone app contacts screen</description>
+			<image>MB1.png</image>
+		</screenshot>	
+	<screenshot>
+			<description>completely redesign the phone app contacts screen</description>
+			<image>MB2.png</image>
+		</screenshot>
+</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
