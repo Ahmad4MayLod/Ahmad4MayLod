@@ -202,8 +202,8 @@ Name: LockScreen Video 3 iOS 7 - 14
 Architecture: iphoneos-arm
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Description: Trigger a video alarm when someone tries to unlock your phone.
-Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideo
-Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideo
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideoBeta
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideoBeta
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Section: Tweaks
