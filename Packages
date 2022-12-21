@@ -203,7 +203,6 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Description: Trigger a video alarm when someone tries to unlock your phone.
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideoBeta
-Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=LockScreenVideoBeta
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Section: Tweaks
@@ -211,3 +210,18 @@ Version: 3.0Beta2
 Installed-Size: 6280
 MD5sum: 14d5fbef230a965c6e10f317e2a66149
 Filename: ./debs/LockScreenVideoBeta.deb
+
+Package: love.litten.eneko
+Name: Eneko 🎬
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm
+Description: Set a video as your wallpaper
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Eneko
+SileoDepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Eneko
+Version: 1.1.2
+Installed-Size: 1428
+MD5sum: 6d8de12b35e0fb8881ca5ba91a6fad73
+Filename: ./debs/Eneko.deb
