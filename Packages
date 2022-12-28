@@ -226,7 +226,7 @@ Installed-Size: 1428
 MD5sum: 6d8de12b35e0fb8881ca5ba91a6fad73
 Filename: ./debs/Eneko.deb
 
-Package: com.Ahmad4MayLod.honey
+Package: net.kenhtao.honey
 Version: 2.1
 Section: Tweaks
 Maintainer: Ahmad4MayLod
@@ -234,9 +234,10 @@ Description: Make the home screen like the watchOS screen
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
 Architecture: iphoneos-arm
+Installed-Size: 432
 Name: Honey (iOS 11 - 14)
 Author: Blake Boxberger
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
 SileoDepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
-MD5sum: dfa9204b5ede3c83bfd7ecfdbc22e9e2
+MD5sum: 0979c777e249e9ee1fe6a09445cc53e4
 Filename: ./debs/Honey.deb
