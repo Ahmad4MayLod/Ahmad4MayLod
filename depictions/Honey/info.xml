@@ -10,9 +10,6 @@
 	<dependencies>
 		<package>mobilesubstrate, preferenceloader, ws.hbang.common</package>
 	</dependencies>
-        <Conflicts>
-        <package>com.blakeboxberger.dockremover</package>
-        </Conflicts>
 	<descriptionlist>
 		<description>Make the iPhone home screen like watchOS screen</description>
 	</descriptionlist>
