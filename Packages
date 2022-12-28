@@ -234,7 +234,6 @@ Description: Make the home screen like the watchOS screen
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
 Architecture: iphoneos-arm
-Installed-Size: 432
 Name: Honey (iOS 11 - 14)
 Author: Blake Boxberger
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
