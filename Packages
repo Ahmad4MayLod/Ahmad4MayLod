@@ -241,3 +241,29 @@ Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
 SileoDepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
 MD5sum: c3e44944d3d2b24808846a59ed073e43
 Filename: ./debs/Honey.deb
+
+Package: com.mrgcgamer.activatorcrashfix14
+Name: ActivatorCrashFix
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Installed-Size: 136
+Author: MrGcGamer
+Maintainer: Ahmad4MayLod
+Description: Fixes a crash on iOS 14 when using Activator!
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=ActivatorFix
+Filename: ./debs/ActivatorFix.deb
+MD5sum: 32877191de184ac15c78780b2964cb5c
+
+Package: org.cydia.kiimo.coeus
+Version: 1.0-1
+Section: Supports iOS 11 - 14
+Maintainer: Ahmad4MayLod
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.14), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Name: Coeus iOS 11 - 14
+Author: Azzou
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Coeus
+Filename: ./debs/Coeus.deb
+MD5sum: ac565668e670a2eda9bc6fea07b7d995

@@ -1,0 +1,46 @@
+<package>
+	<id>org.cydia.kiimo.coeus</id>
+	<name>Works on iOS 11 - 14</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.14), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Coeus is a highly customizable CC Module inspired by Polus</description>
+	</descriptionlist>
+<screenshots>
+		<screenshot>
+			<description>Coeus is a highly customizable CC Module inspired by Polus</description>
+			<image>M.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Coeus is a highly customizable CC Module inspired by Polus</description>
+			<image>M2.png</image>
+		</screenshot>	
+	<screenshot>
+			<description>Coeus is a highly customizable CC Module inspired by Polus</description>
+			<image>M3.png</image>
+		</screenshot>
+<screenshot>
+			<description>Coeus is a highly customizable CC Module inspired by Polus</description>
+			<image>M4.png</image>
+		</screenshot>
+</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
