@@ -1,0 +1,28 @@
+<package>
+	<id>com.ahmad4maylod.touchbar</id>
+	<name>iAP26</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Hack in-app for free</description>
+	</descriptionlist>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>

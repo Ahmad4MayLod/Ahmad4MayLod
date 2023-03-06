@@ -268,3 +268,34 @@ Description: Coeus is a highly customizable CC Module inspired by Polus
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Coeus
 Filename: ./debs/Coeus.deb
 MD5sum: aa49b890a82bd8e72d85aa45d7348d60
+
+Package: com.ahmad4maylod.iap26
+Name: iAP26
+Version: 1.0
+Description: Hack In-App - Works on iOS 3 Up to iOS 14
+Author: JustinPet26
+Depends: mobilesubstrate
+Installed-Size: 174
+Section: Hacks
+Architecture: iphoneos-arm
+Maintainer: Ahmad4MayLod <ahmad4maylod@gmail.com>
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=iAP26
+Filename: ./debs/iAP26.deb
+MD5sum: 4c0899086a8ba689bd0e04f6fb3906e0
+
+Package: com.ahmad4maylod.touchbar
+Version: 1.3-5
+Section: Tweaks
+Maintainer: Ahmad4MayLod
+Homepage: https://repo.twickd.com/get/com.twickd.ethan-whited.touchbar
+Description: Bring Mac OS TouchBat to iOS!
+Depends: mobilesubstrate, ws.hbang.common, libactivator
+Conflicts: com.twickd.ethan-whited.touchbar
+Architecture: iphoneos-arm
+Installed-Size: 920
+Name: TouchBar iOS 14
+Author: Ethan Whited
+Sileodepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=TouchBar
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=TouchBar
+MD5sum: a63268289d7f6981ad6e435acc0785f3
+Filename: ./debs/TouchBar.deb
