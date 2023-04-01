@@ -1,0 +1,42 @@
+<package>
+	<id>com.ryannair05.cask3</id>
+	<name>Tested on iOS 14</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion (>= 1.0.0), firmware (>= 14.0)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Animated table scrolling</description>
+	</descriptionlist>
+<screenshots>
+		<screenshot>
+			<description>Animated table scrolling iOS 14</description>
+			<image>M.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Animated table scrolling FOR YOUR DEVICE</description>
+			<image>M2.png</image>
+		</screenshot>	
+	<screenshot>
+			<description>Animated table scrolling</description>
+			<image>M3.png</image>
+		</screenshot>
+</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>

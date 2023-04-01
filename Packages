@@ -299,3 +299,17 @@ Sileodepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=TouchB
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=TouchBar
 MD5sum: a63268289d7f6981ad6e435acc0785f3
 Filename: ./debs/TouchBar.deb
+
+Package: com.ryannair05.cask3
+Name: Cask 3 iOS 14
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Installed-Size: 812
+Author: Ryan Nair
+Maintainer: Ryan Nair
+Description: Animated table scrolling
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Cask3
+MD5sum: a40ec1c3b9e31b6dd50c172ba72342ab
