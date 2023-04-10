@@ -313,3 +313,19 @@ Maintainer: Ryan Nair
 Description: Animated table scrolling
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Cask3
 MD5sum: a40ec1c3b9e31b6dd50c172ba72342ab
+Filename: ./debs/Cask3.deb
+
+Package: me.nepeta.relocatereborn
+Name: Relocate iOS 13 / 14 / 15
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Conflicts: me.nepeta.relocate
+Architecture: iphoneos-arm
+Description: Minimalist GPS spoofer (free, iOS 13+)
+Maintainer: Ahmad4MayLod
+Author: Nepeta
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 492
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Relocate
+MD5sum: 5b4da6dbfbcc9186c569c61d93db31a0
+Filename: ./debs/Relocate.deb
