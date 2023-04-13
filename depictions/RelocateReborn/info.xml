@@ -1,28 +1,29 @@
 <package>
-	<id>me.nepeta.relocatereborn</id>
-	<name>Tested on iOS 13 and iOS 14</name>
-	<version>1.0.1</version>
+	<id>com.ryannair05.cask3</id>
+	<name>Tested on iOS 14</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>14.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader</package>
+		<package>dev.theos.orion (>= 1.0.0), firmware (>= 14.0)</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Minimalist GPS spoofer (free, iOS 13+)</description>
+		<description>Animated table scrolling</description>
 	</descriptionlist>
 <screenshots>
 		<screenshot>
-			<description>Minimalist GPS spoofer (free, iOS 13+)</description>
+			<description>Animated table scrolling iOS 14</description>
 			<image>M.png</image>
 		</screenshot>		
-		<screenshot>Minimalist GPS spoofer (free, iOS 13+) FOR YOUR DEVICE</description>
+		<screenshot>
+			<description>Animated table scrolling FOR YOUR DEVICE</description>
 			<image>M2.png</image>
 		</screenshot>	
 	<screenshot>
-			<description>Minimalist GPS spoofer (free, iOS 13+)</description>
+			<description>Animated table scrolling</description>
 			<image>M3.png</image>
 		</screenshot>
 </screenshots>
