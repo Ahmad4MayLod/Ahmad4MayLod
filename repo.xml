@@ -15,8 +15,13 @@
 			<url>hhttps://www.tiktok.com/@ah4mls</url>
 			<iconclass>fa fa-tiktok</iconclass>
 		</link>
+<link>
+			<name>Buy Me A Coffee</name>
+			<url>https://www.buymeacoffee.com/ahmad4maylod</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
                 <link>
-			<name>Donate For Me</name>
+			<name>Donate</name>
 			<url>https://paypal.me/Ahmad4MayLod</url>
 			<iconclass>fa fa-paypal</iconclass>
 		</link>
