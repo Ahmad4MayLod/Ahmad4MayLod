@@ -14,7 +14,7 @@ Filename: ./debs/SocialDownloader.deb
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=SocialDownloader
 
 Package: net.kenhtao.milkyway3
-Name: MilkyWay 0.2.7 For iOS 14
+Name: MilkyWay2 For iOS 14
 Depends: mobilesubstrate, applist, preferenceloader
 Architecture: iphoneos-arm
 Replaces: net.kenhtao.backgrounderaction13
@@ -54,7 +54,7 @@ Description: Hack popular apps and games!!
 Filename: ./debs/ArabHack.deb
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=ArabHack
 Author: ArabCrackTeam
-Section: Tweaks
+Section: Hacks
 Maintainer: Arab-Crack
 Depends: mobilesubstrate, ws.hbang.common
 MD5sum: 11c468e4dd068ca256e73791684cb682
@@ -67,7 +67,7 @@ Architecture: iphoneos-arm
 Description: iGameGuardian For iOS 14, Uploaded by Ahmad4MayLod
 Maintainer: AH4Ma
 Author: Aqua
-Section: Tweaks
+Section: Hacks
 Version: 1.0
 Size: 1092354 
 Installed-Size: 100kb
@@ -329,3 +329,44 @@ Installed-Size: 492
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=RelocateNew
 MD5sum: bf55710ace3c2bff0f1280e3de3df2ef
 Filename: ./debs/Relocate.deb
+
+Package: com.ahmad4maylod.app4all
+Version: 1.1
+Section: Hacks
+Maintainer: Ahmad4MayLod
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 3712
+Name: App4All
+Author: Belhadj Hussein
+Description: Hack apps and games (free)
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=App4All
+MD5sum: f041fdfc4e9f2e57acfe0fe0a972d3b0
+Filename: ./debs/App4All.deb
+
+Package: com.ahmad4maylod.mycracker2
+Name: My CRACKER 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Free In-App by Ahmad4MayLod
+Author: stem grade <hotmail_155@hotmail.com>
+Section: Hacks
+Maintainer: Ahmad4MayLod
+Depends: mobilesubstrate
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=MyCracker2
+MD5sum: 12f3409c9b392042536294901ab1f5cb
+Filename: ./debs/MyCracker2.deb
+
+Package: com.ahmad4maylod.ah4maiaphack
+Version: 1.3
+Section: Hacks
+Maintainer: Ahmad4MayLod
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 296
+Name: AH4Ma iAP Hack Beta
+Author: Ahmad4MayLod <ahmad4maylod@gmail.com>
+Description: Free In-App by Ahmad4MayLod
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AH4MaiAPHack
+MD5sum: c979e6d7cd9c2b761dbbf38d61539e88
+Filename: ./debs/AH4MaiAPHack.deb

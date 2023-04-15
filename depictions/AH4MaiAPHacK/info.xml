@@ -1,0 +1,34 @@
+<package>
+	<id>com.ahmad4maylod.ah4maiaphack</id>
+	<name>Tested on iOS 11/14</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, applist, preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Free in-app by Ahmad4MayLod iOS 11+</description>
+	</descriptionlist>
+<screenshots>
+		<screenshot>
+			<description>Free in-app by Ahmad4MayLod</description>
+			<image>M.png</image>
+		</screenshot>		
+</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
