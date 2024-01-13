@@ -1,0 +1,45 @@
+<package>
+	<id>com.yourepo.ah4ma.riveria</id>
+	<name>Tested on iOS 13/14</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common (>= 1.14)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Brand new design for Settings app</description>
+	</descriptionlist>
+<screenshots>
+		<screenshot>
+			<description>New design for Settings app</description>
+			<image>M.png</image>
+		</screenshot>
+		<screenshot>
+			<image>M2.png</image>
+		</screenshot>	
+	<screenshot>
+			<image>M3.png</image>
+		</screenshot>
+</screenshots>
+	<links>
+		<link>
+			<name>/r/Ahmad4MayLod</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+<link>
+			<name>/YT/Ahmad4MayLod</name>
+			<url>https:https://www.youtube.com/c/ahmad4maylodc</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+<link>
+			<name>/Buymeacoffee/Ahmad4MayLod</name>
+			<url>https:https://www.buymeacoffee.com/ahmad4maylod</url>
+			<iconclass>fa fa-buymeacoffee</iconclass>
+		</link>
+	</links>
+</package>

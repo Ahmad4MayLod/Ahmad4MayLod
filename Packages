@@ -57,7 +57,7 @@ Author: ArabCrackTeam
 Section: Hacks
 Maintainer: Arab-Crack
 Depends: mobilesubstrate, ws.hbang.common
-MD5sum: 11c468e4dd068ca256e73791684cb682
+MD5sum: 6cf7515f86fe172b670f92ea07d9103b
 Size: 536568
 
 Package: com.thuthuatjb.igg
@@ -121,7 +121,7 @@ Architecture: iphoneos-arm
 Description: No More (App Is No Longer Available) iOS 11/12/13/14
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AntiProfilesRevoke
 Sponsor: thebigboss.org <http://thebigboss.org>
-MD5sum: ed68c3ce95ff5770eea54319a2f0f017
+MD5sum: 53a675c7339a9a77ea61463aca6433ba
 
 Package: net.kenhtao.quart
 Version: 1.4.6.1
@@ -177,7 +177,7 @@ Section: Tweaks
 Description: Completely redesign the phone app contacts screen
 Homepage: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Bongwater
 Maintainer: Ahmad4MayLod <youtube.com/ahmad4maylodc>
-MD5sum: 9351f88e3920ad70b920d71e16036c00
+MD5sum: 90d0fa88656500fcf3be4674aa36dbe4
 Filename: ./debs/Bongwater.deb
 
 Author: Sticktron <sticktron@hotmail.com>
@@ -223,7 +223,7 @@ Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Eneko
 SileoDepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Eneko
 Version: 1.1.2
 Installed-Size: 1428
-MD5sum: 6d8de12b35e0fb8881ca5ba91a6fad73
+MD5sum: c39e59548b88901dae4130d605f274a3
 Filename: ./debs/Eneko.deb
 
 Package: com.ahmad4maylod.honey
@@ -239,7 +239,7 @@ Name: Honey (iOS 11 - 14)
 Author: Blake Boxberger
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
 SileoDepiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Honey
-MD5sum: c3e44944d3d2b24808846a59ed073e43
+MD5sum: 7b5a294ef3ff0ee51acd533628a0004b
 Filename: ./debs/Honey.deb
 
 Package: com.mrgcgamer.activatorcrashfix14
@@ -254,7 +254,7 @@ Maintainer: Ahmad4MayLod
 Description: Fixes a crash on iOS 14 when using Activator!
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=ActivatorFix
 Filename: ./debs/ActivatorFix.deb
-MD5sum: 32877191de184ac15c78780b2964cb5c
+MD5sum: 881cced959c68e20ee6d96c4fb6e6b77
 
 Package: com.ahmad4maylod.coeus
 Version: 1.0-1
@@ -267,7 +267,7 @@ Author: Azzou
 Description: Coeus is a highly customizable CC Module inspired by Polus
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Coeus
 Filename: ./debs/Coeus.deb
-MD5sum: aa49b890a82bd8e72d85aa45d7348d60
+MD5sum: fa4188f2c01c3cad1987f57869cd72f5
 
 Package: com.ahmad4maylod.iap26
 Name: iAP26
@@ -312,7 +312,7 @@ Author: Ryan Nair
 Maintainer: Ryan Nair
 Description: Animated table scrolling
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Cask3
-MD5sum: a40ec1c3b9e31b6dd50c172ba72342ab
+MD5sum: c03040bcf7d78cbc9f9d6515f181d5ba
 Filename: ./debs/Cask3.deb
 
 Package: me.nepeta.relocatereborn
@@ -341,7 +341,7 @@ Name: App4All
 Author: Belhadj Hussein
 Description: Hack apps and games (free)
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=App4All
-MD5sum: f041fdfc4e9f2e57acfe0fe0a972d3b0
+MD5sum: faf377b4a7e3de17793b8583c171b3ec
 Filename: ./debs/App4All.deb
 
 Package: com.ahmad4maylod.mycracker2
@@ -370,3 +370,17 @@ Description: Free In-App by Ahmad4MayLod
 Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AH4MaHack
 MD5sum: c979e6d7cd9c2b761dbbf38d61539e88
 Filename: ./debs/AH4MaiAPHack.deb
+
+Package: com.yourepo.ah4ma.riveria
+Architecture: iphoneos-arm
+Name: Riveria
+Version: 1.0
+Description: Brand new design for Settings app
+Author: SouthernGirlWhoCode <southerngirlwhocode@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
+Maintainer: Ahmad4MayLod <Ahmad.net9994@yahoo.com>
+MD5sum: 03b8359f4122529aef9550c106b0836c
+Filename: ./debs/Reveria.deb
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=Reveria
+
