@@ -1,1 +1,1 @@
-Hey Guys, Checkout my channel "Ahmad4MayLod" It's a channel for iOS / MacOS / PC.
+Visit my channel "Ahmad4MayLod" :) That's what you need.
